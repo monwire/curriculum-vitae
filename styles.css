@@ -1,0 +1,73 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: #121214;
+  color: #c4c4cc;
+}
+
+h1,
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+header {
+  text-align: center;
+}
+
+p,
+li,
+dl {
+  margin-left: 2%;
+}
+
+nav {
+  margin-left: -3rem;
+}
+
+a {
+  text-decoration: none;
+  color: tomato;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fbbf24;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #fbbf24;
+}
+
+#profilePic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#mainLinks {
+  list-style-type: none;
+}
+
+.rounded-box {
+  border-radius: 1rem;
+  background-color: #202024;
+  padding: 1rem;
+  color: #a8a8b3;
+}
+
+#summary {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+}
